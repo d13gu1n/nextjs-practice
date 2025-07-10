@@ -41,5 +41,8 @@ node_modules
 #PNPM Lock
 pnpm-lock.yaml
 
+#package-lock
+package-lock.json
+
 # env
 .env*
